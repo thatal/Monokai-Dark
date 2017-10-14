@@ -110,19 +110,6 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-                <string>#FD971F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Variable Function</string>
-			<key>scope</key>
-			<string>entity.name.function</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
                 <string>#66D9EF</string>
 			</dict>
 		</dict>
