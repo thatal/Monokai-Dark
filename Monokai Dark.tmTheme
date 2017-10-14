@@ -108,9 +108,22 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-                		<string>#66D9EF</string>
+                <string>#FD971F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable Function</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+                <string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -381,7 +394,17 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
-
+		<dict>
+            <key>name</key>
+            <string>Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F8F8F8</string>
+            </dict>
+        </dict>
 	</array>
 	<key>uuid</key>
 	<string>FE39CD66-C000-4440-8701-9124CFF68763</string>
