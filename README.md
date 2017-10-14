@@ -1,4 +1,4 @@
-Monokai-Black
+Monokai-Dark
 =============
 
 Monokai Dark with Dark background special for seti_ui for Sublime Text 2 and 3
