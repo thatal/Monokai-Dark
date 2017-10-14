@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai Dark</string>
+	<string>Monokai</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -381,5 +381,7 @@
 		</dict>
 
 	</array>
+	<key>uuid</key>
+	<string>FE39CD66-C000-4440-8701-9124CFF68763</string>
 </dict>
 </plist>
