@@ -133,8 +133,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
-				<key>foreground</key>
-				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
