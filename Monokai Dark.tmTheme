@@ -109,8 +109,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>bold</string>
-				<key>foreground</key>
-                <string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
