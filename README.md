@@ -13,3 +13,5 @@ Monokai Dark with Dark background special for seti_ui for Sublime Text 2 and 3
 - In command palette: Add repository https://github.com/thatal/Monokai-Dark
 - In command palette: Install package Monokai-Dark
 - Select theme in Preferences/Color Scheme
+### Screenshot Python Syntax
+[![python_syntax](https://s33.postimg.org/zcpa6xwyn/python_syntax.jpg)](https://postimg.org/image/tbrl9vacb/)
